@@ -4,7 +4,7 @@
 
 UI Preview                 |  UI Preview
 :-------------------------:|:-------------------------:
-![](screenShots/home.png)  |  ![](ScreenShots/splach.png)
+![](screenShots/home.png)  |  ![](screenShots/splach.png)
 
 
 * free open source Made with ❤ in Algeria  
